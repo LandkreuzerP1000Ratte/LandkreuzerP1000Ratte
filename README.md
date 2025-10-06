@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LandkreuzerP1000Ratte
+- 👋 Hi, I’m LandkreuzerP1000Ratte
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
