@@ -23,7 +23,7 @@ val Land = Developer(
     pronouns = "he/him",
     age = Why do you wanna know that 🤨,
     code = listOf("C#", "Css", "Html", "Python"),
-    tools = listOf("VS code", "My Pc", Stackoverflow),
+    tools = listOf("VS code", "My Pc", "Stackoverflow"),
     ),
-    currentFocus = "Making a Python Libraty Software"
+    currentFocus = "Making a Python Library Software"
 )
