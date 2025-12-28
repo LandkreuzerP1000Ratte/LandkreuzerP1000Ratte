@@ -2,7 +2,7 @@
 
 # Hi, I'm Landkreuzer or Landi 👋
 
-<img src="https://raw.githubusercontent.com/leycm/leycm/main/java.png" width="200"/>
+<img src="https://iconscout.com/lottie-animation/python-logo-animation_12875023"
 
 ### Software Engeener at my School☠️☠️☠️  
 ### Focus on Python & C#
