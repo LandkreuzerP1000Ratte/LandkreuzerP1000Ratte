@@ -10,7 +10,7 @@
 ---
 
 ### 🌐 Links
-[![Discord](https://img.shields.io/badge/Discord-leycm-5865F2?logo=discord&logoColor=white)]()
+[![Discord](https://img.shields.io/badge/https://discord.gg/paramedor?logo=discord&logoColor=white)]()
 
 </div>
 
