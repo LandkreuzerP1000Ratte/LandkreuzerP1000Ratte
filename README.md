@@ -25,5 +25,5 @@ val Land = Developer(
     code = listOf("C#", "Css", "Html", "Python"),
     tools = listOf("VS code", "My Pc", "Stackoverflow"),
     ),
-    currentFocus = "Making a Python Library Software"
+    currentFocus = "Making a Python Library Software for my School"
 )
