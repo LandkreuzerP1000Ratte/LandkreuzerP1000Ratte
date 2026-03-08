@@ -8,12 +8,7 @@
 ### Focus on Python & C#
 
 ---
-
-### 🌐 Links
-[![Discord](https://img.shields.io/badge/https://discord.gg/paramedor?logo=discord&logoColor=white)]()
-
 </div>
-
 ---
 
 ## 🧑‍💻 A little more about me...
