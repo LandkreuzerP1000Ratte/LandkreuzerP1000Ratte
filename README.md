@@ -2,10 +2,10 @@
 
 # Hi, I'm Landkreuzer or Landi 👋
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Systemd-logo.svg"/>
 
 ### Software Engeener at my School☠️☠️☠️  
-### Focus on Python & C#
+### Focus on Python & Java
 
 ---
 </div>
